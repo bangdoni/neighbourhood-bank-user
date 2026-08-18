@@ -1,0 +1,7 @@
+{
+  "name": "nb-some-place-user",
+  "private": true,
+  "dependencies": {
+    "postgres": "^3.4.5"
+  }
+}
